@@ -1,0 +1,7 @@
+C:\Users\Win10\Desktop\nesne\HATA\HATA\bin\Debug\HATA.exe
+C:\Users\Win10\Desktop\nesne\HATA\HATA\bin\Debug\HATA.pdb
+C:\Users\Win10\Desktop\nesne\HATA\HATA\obj\x86\Debug\HATA.Form1.resources
+C:\Users\Win10\Desktop\nesne\HATA\HATA\obj\x86\Debug\HATA.Properties.Resources.resources
+C:\Users\Win10\Desktop\nesne\HATA\HATA\obj\x86\Debug\HATA.csproj.GenerateResource.Cache
+C:\Users\Win10\Desktop\nesne\HATA\HATA\obj\x86\Debug\HATA.exe
+C:\Users\Win10\Desktop\nesne\HATA\HATA\obj\x86\Debug\HATA.pdb
